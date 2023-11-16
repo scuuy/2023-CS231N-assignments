@@ -1,0 +1,2 @@
+# 2023-CS231N-assignments
+笔者正在学习2023春季学期的CS231N的课程，将正在写的assignments作业放置此处
